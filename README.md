@@ -4,12 +4,6 @@ I'm Lucas. I'm looking for learning, opportunities and collaboration on projects
 - 🔭 I'm currently working and studying (plus, I'm improving my programming logic and algorithm skills regularly).
 - 🌱 I've also been working on improving my Soft Skills, mainly "problem solving" and "communication".
 - 🤝 Lastly, I created my own projects and collaborated on others. To keep the learning process continuous.
-
-&nbsp; &nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=LucasFerreiraSantos&theme=radical&mode=weekly" />
- </div>
  
  &nbsp; &nbsp;
 
